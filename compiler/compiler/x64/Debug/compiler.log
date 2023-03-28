@@ -1,0 +1,17 @@
+﻿  源.cpp
+D:\vscode-test\compiler\compiler\declaration.h(52,2): warning C4091: “typedef ”: 没有声明变量时忽略“sav”的左侧
+D:\vscode-test\compiler\compiler\declaration.h(80,25): warning C4091: “extern ”: 没有声明变量时忽略“symboltable”的左侧
+D:\vscode-test\compiler\compiler\funtions.h(301,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(357,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(364,25): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(376,29): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(393,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(400,25): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(406,25): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(423,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vscode-test\compiler\compiler\funtions.h(713,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  declaration.h
+D:\vscode-test\compiler\compiler\declaration.h(52,2): warning C4091: “typedef ”: 没有声明变量时忽略“sav”的左侧
+D:\vscode-test\compiler\compiler\declaration.h(80,25): warning C4091: “extern ”: 没有声明变量时忽略“symboltable”的左侧
+  正在生成代码...
+  compiler.vcxproj -> D:\vscode-test\compiler\x64\Debug\compiler.exe
